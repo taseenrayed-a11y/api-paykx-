@@ -27,5 +27,7 @@ https://paykx-api-taseenrayed.replit.app
 - 200+ simulation cycles
 - £1.7M simulated harm prevented
 - SEIS Advance Assurance submitted
+- Built with FastAPI + SQLite for fast iteration and auditability. Shadow mode enables safe partner testing.
+  
 
 Contact: taseenrayed@paykx.co.uk
