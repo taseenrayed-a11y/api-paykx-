@@ -20,3 +20,4 @@ git clone https://github.com/taseenrayed-a11y/api-paykx-.git
 cd api-paykx-
 pip install -r requirements.txt
 uvicorn main:app --reload
+https://documenter.getpostman.com/view/52813753/2sBXcKBHke#d83b04c4-1f2f-4c40-9dc6-4c9c2cba49e1
